@@ -1,5 +1,5 @@
 /*
-   Testing Circuit
+   Circuit that will output IMU acceleration in x, y and z direction
 
    Taken from Arduino and MPU6050 Accelerometer and Gyroscope Sensor Tutorial,    by Dejan, https://howtomechatronics.com
    
