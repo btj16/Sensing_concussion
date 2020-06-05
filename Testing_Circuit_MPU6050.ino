@@ -1,6 +1,9 @@
 /*
-   Arduino and MPU6050 Accelerometer and Gyroscope Sensor Tutorial
-   by Dejan, https://howtomechatronics.com
+   Testing Circuit
+
+   Taken from Arduino and MPU6050 Accelerometer and Gyroscope Sensor Tutorial,    by Dejan, https://howtomechatronics.com
+   
+   Edited by Benjamin Jones to increase full range to +/- 16g
 */
 #include <Wire.h>
 const int MPU = 0x68;
