@@ -11,8 +11,8 @@ const int x_axis = 2;
 const int y_axis = 3;
 const int z_axis = 4;
 
-const float t_1 = 2.0; // voltage threshold in +ve direction
-const float t_2 = 1.3; // voltage threshold in -ve direction
+const float t_1 = 1.77; // voltage threshold for +15g 
+const float t_2 = 1.53; // voltage threshold in -15g 
 
 float x = 1.65; //  value of voltage from accelerometer when accelerometer is stationary
 float y = 1.65;
