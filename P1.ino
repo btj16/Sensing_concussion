@@ -5,7 +5,7 @@
  */
 
 int scale = 200;
-int t = 40;
+int t = 15;
 float scale_x;
 float scale_y;
 flaot scale_z;
