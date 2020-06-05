@@ -59,11 +59,3 @@ void exceed_t(float val) {
     digitalWrite(LED, HIGH);
 }
 }
-
-/*
-  else if (x <= t_2) {
-    digitalWrite(LED, HIGH);
-    delay(50);
-    digitalWrite(LED, LOW);
-  }
-*/
