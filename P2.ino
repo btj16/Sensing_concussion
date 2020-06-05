@@ -14,7 +14,7 @@ const int z_axis = 4;
 const float t_1 = 2.0; // voltage threshold in +ve direction
 const float t_2 = 1.3; // voltage threshold in -ve direction
 
-float x = 1.65; //  value of voltage from accelerometer
+float x = 1.65; //  value of voltage from accelerometer when accelerometer is stationary
 float y = 1.65;
 float z = 1.65;
 int buttonState = 0; // variable to read whether button is pressed
