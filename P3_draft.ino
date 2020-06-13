@@ -45,7 +45,7 @@ void loop() {
   Y_accel = mapf(rawY, 0, 1023, -scale, scale);
   Z_accel = mapf(rawZ, 0, 1023, -scale, scale);
 
-  if(abs(X_accel) > 40 || abs(Y_accel) > 40 || abs(Z_accel) > 40) {
+  if(abs(X_accel) > 15 || abs(Y_accel) > 15 || abs(Z_accel) > 15) {
     nfc.enable();
     if (nfc.loop()) {
       if (nfc.wasRead()) {
