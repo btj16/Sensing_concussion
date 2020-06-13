@@ -1,5 +1,5 @@
 /*
-Code to run three axis acclerometer threshold detector
+Code to run three axis accelerometer threshold detector
 
 Written by Benjamin Jones
 31/05/20
