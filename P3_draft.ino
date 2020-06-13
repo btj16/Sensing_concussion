@@ -1,3 +1,16 @@
+/* 
+ * Code to run 3 axis accelerometer NFC threshold detector
+ * 
+ * Written by Benjamin Jones 
+ * 12/06/20
+ *  
+ *  Merged and edited SparkFun ADXL377 Hookup Guide
+ *  (https://learn.sparkfun.com/tutorials/adxl337-and-adxl377-accelerometer-hookup-guide)
+ *  and RF430CL example code from Spirilis RF430CL energia library 
+ *  (https://github.com/spirilis/RF430CL)
+ *  
+ */
+
 #include <NDEF.h>
 #include <NDEF_TXT.h>
 #include <RF430CL.h>
